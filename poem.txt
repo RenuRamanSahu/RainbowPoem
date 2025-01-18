@@ -1,4 +1,4 @@
-A rainbow and the unicorns
+A rainbow and the unicorns and the ponies
 
 violet
 Indigo
@@ -8,6 +8,7 @@ yellow
 orange
 red
 unicorn
+ponies
 well this is something new
 
 Okay lets see how this works out
