@@ -1,4 +1,4 @@
-A rainbow
+A rainbow and the unicorns
 
 violet
 Indigo
@@ -7,8 +7,9 @@ green
 yellow
 orange
 red
+unicorn
 
 Okay lets see how this works out
 
 
-Theses are the colors of the rainbow
+Theses are the colors of the rainbow and unicorn
