@@ -3,7 +3,9 @@ A rainbow
 violet
 Indigo
 blue
+green
 orange
 red
+
 
 Theses are the colors of the rainbow
